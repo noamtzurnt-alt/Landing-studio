@@ -1,0 +1,23 @@
+<svg width="256" height="256" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Landing Studio mark">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2F6BFF"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <clipPath id="r">
+      <rect x="0" y="0" width="220" height="220" rx="54"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#r)">
+    <rect x="0" y="0" width="220" height="220" rx="54" fill="#0B0B0F"/>
+    <rect x="10" y="10" width="200" height="200" rx="46" stroke="rgba(255,255,255,0.10)" stroke-width="2"/>
+
+    <path d="M156 20 L176 20 L64 200 L44 200 Z" fill="url(#accent)" opacity="0.95"/>
+    <path d="M150 20 L160 20 L56 200 L46 200 Z" fill="rgba(255,255,255,0.18)"/>
+
+    <path d="M68 62 V158 C68 168.5 76.5 177 87 177 H142" stroke="rgba(255,255,255,0.90)" stroke-width="16" stroke-linecap="round"/>
+    <path d="M150 78 C150 67.5 141.5 59 131 59 H104 C93.5 59 85 67.5 85 78 C85 88.5 93.5 97 104 97 H131 C141.5 97 150 105.5 150 116 C150 126.5 141.5 135 131 135 H85" stroke="rgba(255,255,255,0.90)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
+
